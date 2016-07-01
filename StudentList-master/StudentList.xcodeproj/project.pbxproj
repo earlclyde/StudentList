@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		18888A311D271E1A00E58DE6 /* Mason.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 18888A301D271E1A00E58DE6 /* Mason.jpg */; };
 		9DFE1BC01D26D55A00F80375 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DFE1BB71D26D55A00F80375 /* Assets.xcassets */; };
 		9DFE1BC11D26D55A00F80375 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DFE1BB81D26D55A00F80375 /* LaunchScreen.storyboard */; };
 		9DFE1BC21D26D55A00F80375 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DFE1BBA1D26D55A00F80375 /* Main.storyboard */; };
@@ -17,7 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		18888A301D271E1A00E58DE6 /* Mason.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Mason.jpg; sourceTree = "<group>"; };
 		9DFE1BA11D26D51600F80375 /* StudentList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StudentList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DFE1BB71D26D55A00F80375 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9DFE1BB91D26D55A00F80375 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -89,7 +87,6 @@
 		9DFE1BCC1D26DCAB00F80375 /* StudentImages */ = {
 			isa = PBXGroup;
 			children = (
-				18888A301D271E1A00E58DE6 /* Mason.jpg */,
 			);
 			path = StudentImages;
 			sourceTree = "<group>";
@@ -153,7 +150,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				9DFE1BC21D26D55A00F80375 /* Main.storyboard in Resources */,
-				18888A311D271E1A00E58DE6 /* Mason.jpg in Resources */,
 				9DFE1BC01D26D55A00F80375 /* Assets.xcassets in Resources */,
 				9DFE1BC11D26D55A00F80375 /* LaunchScreen.storyboard in Resources */,
 			);
@@ -320,7 +316,6 @@
 				9DFE1BB51D26D51600F80375 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
